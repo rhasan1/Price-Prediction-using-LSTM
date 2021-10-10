@@ -13,4 +13,4 @@ Setup
 
 To run this project at first download the repo and Follow the collowing Steps: 
 1. Create a virtual environment using py -m venv env
-2. Install all necessary libiraries into the virtual environment such as pandas,numpy, keras
+2. Install all necessary libiraries into the virtual environment such as pandas,numpy, keras, Tensorflow
